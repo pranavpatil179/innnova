@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Innnova
 
 Innnova is a single-page autonomous personal assistant demo that accepts a high-level instruction, plans the work into subtasks, executes simulated tool calls, and reports a structured summary of the result.
